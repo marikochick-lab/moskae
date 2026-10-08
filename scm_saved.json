@@ -1,0 +1,4 @@
+{
+  "MyCom": "echo Test",
+  "Hello,world": "echo Hello! && echo world"
+}
