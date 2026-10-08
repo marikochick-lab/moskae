@@ -5,8 +5,6 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.scrollview import ScrollView
 import threading
 import sys
-
-sys.path.insert(0, "/storage/emulated/0/MarikOS/system")
 import sc
 
 class KivyOutput:
